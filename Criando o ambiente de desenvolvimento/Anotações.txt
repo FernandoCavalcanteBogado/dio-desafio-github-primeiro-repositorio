@@ -1,0 +1,30 @@
+.NET Framework roda apenas no windows.
+
+.NET Core roda em windows linux e Mac.
+
+.NET Standart, contrato entre .NET Framework e .NET Core que diz a forma de escrever são a mesma.
+
+.NET 5 plataforma unificada.
+
+Framework -> caixa de ferramentas pronta que eu posso usar (componentes)
+
+Runtime -> compila código 
+
+CLI(INTERFACE DE LINHA DE COMANDO) (CMD DO WINDOWS)
+comando
+dotnet --version
+mostra a versão instalada
+dotnet --help
+mostra os comandos possiveis para uso
+dotnet --info
+trás informações
+dotnet new console -o myApp
+cria um novo projeto de console com nome de myApp
+cd myApp
+acessa o projeto
+dotnet run
+executa o projeto
+dotnet build
+compila o projeto
+dotnet restore
+resgata as dependencias
