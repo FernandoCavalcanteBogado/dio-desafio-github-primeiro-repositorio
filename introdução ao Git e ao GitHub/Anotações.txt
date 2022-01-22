@@ -1,0 +1,9 @@
+Para copiar os dados do repositório do GitHub para nosso computador:
+Devemos criar uma pasta para o projeto, abrir o terminal dentro da pasta(GIT BASH HERE), utilizar o comando git clone e colar o link do repositório.
+
+Para enviar as alterações feitas no computador para o GitHub usaremos os comandos:
+git status -> para ver o que foi aterado.
+git add . -> para adcionar todos os arquivos.
+*Caso queira verificar se os arquivos foram adcionados, utilizar o comando git status novamente(o texto deverá estar verde).
+git commit -m "" -> digitar entre os parenteses o nome do commit para controle de versionamento.
+git push origin main(ou master)
