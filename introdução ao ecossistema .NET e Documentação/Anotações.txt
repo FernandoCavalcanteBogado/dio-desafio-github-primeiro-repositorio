@@ -1,0 +1,101 @@
+Objetivo do curso
+-Conhecer as ferramentas, linguagens padrãoes e usabilidade do .NET.
+
+.NET-> plataforma de desenvolvimento.
+
+ASP.NET -> Framework para aplicação web.
+
+O .NET é gratuito e de software livre, Plataforma cruzada
+Tipos de aplicação:
+Web
+Mobile
+Desktop
+Microserviços
+Clou
+Machine learning
+Jogos
+.NET Standart
+Especificações das APIs que são comuns ás implementações .NET
+(importante para arquitetura).
+
+Ambientes de desenvolvimento
+*Visual Studio
+*Visual studio code
+*Codespace(online)
+
+Linguagens de programação
+*C#
+*F#
+*Visual Basic
+
+Bibliotecas importantes para desenvolvimento .NET
+*SDK (desenvolver)
+*Runtime(executar)
+NUGET:gerenciador de pacotes
+Acesso a dados:
+Entity framework -> transforma objetos em tabelas.
+LINQ - consulta integrada a linguagem.
+
+ambientes CI/CD
+Github Actions
+Azure Devops
+Cake / Fake
+
+ASP.NET e ASP.NET Core
+são frameworks para desenvolvimento web
+
+.NET Framework - WPF, windows formar, ASP.NET
+.NET Core - UWP, ASP.NET Core
+Xamarim - Xamarim IOS, Xamarin Android, Xamarin Forms, Xamarin Mac
+
+
+.NET Framewrok - ambiente de desenvolvimento e execução focado em windows
+Common language runtime + .NET Class Library
+(gerenciamento de execução de apps)+(biblioteca para reutilização de códigos)
+*Gerenciamento de memória
+*Sistema de tipos comum
+*Muitas bibliotecas (ASP.NET, ADO.NET, WCF, WPF)
+*Interoperabilidade entre linguagens
+*Compatibilidade de versóes
+*Uso do .NET Standart
+
+
+Bom código: confiavel, sustentavel e eficiente
+
+clean code
+*siga sempre as convenções adotadas pela equipe
+mantenha isso estupidamente simples
+devolva o código mais limpo do que você encontrou
+busque sempre entender e solucionar os problemas a partir de sua raiz
+
+
+Camel Case -> primeira letra da próxima palavra empre maiuscula -> valorDoDesconto
+Campos privados internos com prefixo _
+Campos estaticos privados ou internos com prefixo s_
+
+Pascal Case -> primeira letra sempre maiuscula -> ValorDoDesconto
+Classes, interfaces e membros de tipo publico
+
+usamos o .NET:
+necessitar de plataforma cruzada
+há direcionamento a microsserviços
+azure service fabric
+azure app service
+uso de docker
+hospedagem em infraestrutura linux ou windows
+azuera kubernetes service
+alto desempehno escalonável
+necessidade de versões .NET diferentes
+
+
+usamos o .NET Framework:
+não houver necessidade de migração para .NET
+bibliotecas de terceiros
+necessidade de tecnologias não disponiveis para .NET
+ASP.NET WebForms
+ASP.NET web pages
+implementação do lado servidor para WCF
+Workflow foundation
+projeto não suporta determinada linguagem
+
+
