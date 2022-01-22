@@ -1,0 +1,9 @@
+Visual Studio Code.
+Principal IDE para desenvolvimento em Javascript.
+
+Adcionar o PATH  na instalação.
+para melhorar as funções do terminal do VSCode.
+
+shift + p mostra comandos do VSCode.
+
+ctrl + shift + crase abre o terminal
