@@ -1,0 +1,38 @@
+2002 lançamento do Visual Studio .Net C# 1.0.
+
+2003 lançamento do .NET 1.1 com visual studio 2003 - melhorias no CLR para lançar a CLR 2.
+
+2005 lançamento do .NET 2.0 com C# 2.0 com o Visual Studio 2005 - Microsoft começou a atingir o objetivo inicial, inclusive evoluindo na web.
+
+2007 - 2008 lançamento do .NET 3.5 com C# 3.0 com o Visual Studio 2008, com Silverlight, WPF e WFC. - começa a se falar em windows azure.
+
+2010 lançamento do .NET 4.0 com C# 4.0 com o Visual Studio 2010 - Microsoft lança Windows Azure - começa a se trabalhar no Typescript.
+
+2011 inicia o xararin, aplicativos C# que rodam em mobile.
+
+2012 lançamento do .NET 4.5 com C# 5.0 com o Visual Studio 2012 - lançamento do Typescript.
+
+2013 lançamento do .NET 4.5.1 com C# 2.0 com o Visual Studio 2013.
+
+2014 criação do .NET Foundation para gestão de projetos open source. - windows azure passa a se chamar microsoft Azure - Surge ASP.NET vNext(aplicação web).
+
+2015 lançamento do .NET 4.6 com C# 6.0 com o Visual Studio 2015 - lançamento do Visual Studio Code.
+
+2016 microsoft adquire a Xamarin e adiciona como parte da stack .NET - lançamento do Visual Studio for Mac - lançamento .NET Core 1.0 open source.
+
+2017 lançamento do .NET 4.7 com C# 7.0 com o Visual Studio 2017 - lançamento do .NET Core 2.0.
+
+2019 lançamento do .NET Framework 4.8 com C#7.3 com o Visual Studio 2019 - lançamento do .NET Core 3.0 com C#8.0.
+
+2020 .NET Framework está pronto na versão 4.8 e deixa de ser evoluido - junto com ele o WCF e ASP.NET webforms (previsto lançamento do .NET 5.0).
+
+.NET é uma infraestrutura para desenvolvimento de software criada pela microsoft.
+
+comando code. no terminal - abre o VSCode na pasta que esta aberto o terminal.
+
+o compilador do C# é p roslyn.
+
+Classes é uma estrutuda de dados que combina o estado (campos) e ações (metodos).
+
+Objetos são instancias de uma classe.
+
