@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\Aula.exe
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\Aula.deps.json
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\Aula.runtimeconfig.json
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\Aula.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\Aula.dll
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\ref\Aula.dll
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\bin\Debug\net5.0\Aula.pdb
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.dll
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\ref\Aula.dll
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.pdb
+C:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Trabalhando com Tipos de Referência e Valor em C#\obj\Debug\net5.0\Aula.genruntimeconfig.cache

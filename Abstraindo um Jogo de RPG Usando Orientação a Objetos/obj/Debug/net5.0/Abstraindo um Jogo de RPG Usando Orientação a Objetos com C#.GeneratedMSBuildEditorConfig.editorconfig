@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = DigitalInnovationOne
-build_property.ProjectDir = c:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\DigitalInnovationOne\
+build_property.RootNamespace = Abstraindo_um_Jogo_de_RPG_Usando_Orientação_a_Objetos
+build_property.ProjectDir = c:\Users\Pichau\Desktop\workspace\dio-desafio-github-primeiro-repositorio\Abstraindo um Jogo de RPG Usando Orientação a Objetos\
